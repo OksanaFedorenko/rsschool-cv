@@ -5,10 +5,10 @@ I'm a junior front-end developer. Now I'm open for new opportunities and looking
 
 ## My skills
 ```
- ● HTML                      ● Bootstrap              ● React                    ● BEM
- ● CSS                       ● Gulp                   ● Redux                    ● npm/yarn
- ● SASS/SCSS                 ● Webpack                ● Node.js (basics)         ● Linux
- ● JavaScript                ● Git                    ● SQL
+ ● HTML                      ● Bootstrap              ● React (basics)
+ ● CSS                       ● Gulp/Webpack           ● Node.js (basics) 
+ ● SASS/SCSS                 ● SQL (basics)           ● Linux
+ ● JavaScript                ● Git                    ● npm/yarn
 ```
 ## Latest works
  [Landing-page for real estate agency (scss, bootstrap, js)](https://github.com/OksanaFedorenko/real-estate)
