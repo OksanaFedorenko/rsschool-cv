@@ -1,7 +1,9 @@
 
 # Oksana Fedorenko.
 
-I'm a junior front-end developer. Now I'm open for new opportunities and looking for a position in a company.
+**Location: Zaporizhzhia, Ukraine**
+
+I'm a trainee front-end developer. Now I'm open for new opportunities and looking for a position in a company.
 
 ## My skills
 ```
