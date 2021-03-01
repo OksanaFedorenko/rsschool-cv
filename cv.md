@@ -38,3 +38,23 @@ subscribeForm.addEventListener("submit", function (e) {
   
 });
 ```
+## Education
+
+Course "Advanced CSS and Sass: Flexbox, Grid, Animations and More" on Udemy.com
+
+Course "React + Redux - professional development" on Udemy.com
+
+**Beetroot Academy**  
+Frontend courses.  Graduated in 2018.
+
+**Zaporozhye national university**  
+Graduated  in 2015. Bachelor's degree in Accounting and Auditing
+
+
+## Other skills
+
+* English (pre-Intermediate)
+* Spanish (beginner)
+* Communicative
+* Attantive to details
+* High motivated
